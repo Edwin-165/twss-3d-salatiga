@@ -1,4 +1,4 @@
-# 🏛️ Taman Wisata Sejarah Salatiga (TWSS) - 3D OpenGL Project
+# 🏛️ Taman Wisata Sejarah Salatiga - 3D OpenGL Project
 
 Taman Wisata Sejarah Salatiga located in Salatiga, Central Java that also known as "Taman Wisesa". This place is a cultural heritage park that commemorates Indonesia’s national heroes. Completed in 2023, the park features authentic military relics, monuments, and statues honoring figures such as Brigjen Sudiarto, Yos Sudarso, and Adisucipto. Set amidst scenic rice fields, TWSS offers visitors an immersive journey into the past through historical exhibits, educational installations, and tranquil natural surroundings. It serves as both a place of reflection and recreation, blending patriotism with public engagement.<br><br>
 This project is a 3D visualization of the "Taman Wisata Sejarah Salatiga" (Salatiga Historical Tourist Park), developed using OpenGL (GLUT) in C++. It was created as a college project to demonstrate 3D rendering techniques, object modeling, camera control, lighting, and texture mapping.

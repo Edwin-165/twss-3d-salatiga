@@ -60,7 +60,7 @@ To compile and run this project on your local machine, follow these steps:
 * **`stb_image.h`:** This header file is included directly in the project. Ensure it's in your `include` directory (as shown in `main.cpp`).
 
 ### 📝 Side Note
-_This code is a bit chaotic and far from optimized—think of it as a creative sandbox rather than production-grade elegance 😅🙏. Also, don’t forget to update the texture file paths when changing themes, or you'll get that mysterious “invisible object” vibe._
+_This code is a bit chaotic and far from optimized—think of it as a creative sandbox rather than production-grade elegance. Also, don’t forget to update the texture file paths when changing themes, or you'll get that mysterious “invisible object” vibe._ 😅🙏
 
 ### 📥 Cloning the Repository
 

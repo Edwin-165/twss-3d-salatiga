@@ -62,6 +62,11 @@ To compile and run this project on your local machine, follow these steps:
 ### 📝 Side Note
 _This code is a bit chaotic and far from optimized—think of it as a creative sandbox rather than production-grade elegance. Also, don’t forget to update the texture file paths when changing themes, or you'll get that mysterious “invisible object” vibe._ 😅🙏
 
+### ©  Credits
+* Edwin Hartono
+* Rangga Prawiro U.
+* Aaron Fafa Dyland S.
+
 ### 📥 Cloning the Repository
 
 ```bash
